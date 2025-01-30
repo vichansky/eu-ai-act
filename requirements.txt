@@ -1,6 +1,7 @@
 ipykernel==6.28.0
 ipython==8.27.0
 networkx==3.3
+neo4j==5.0
 pandas==2.2.2
 pyvis
 streamlit==1.37.1
